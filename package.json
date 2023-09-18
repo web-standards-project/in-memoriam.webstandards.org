@@ -1,0 +1,24 @@
+{
+  "name": "in-memoriam.webstandards.org",
+  "version": "1.0.0",
+  "description": "A place to archive the work of people who had a significant impact on web standards",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-standards-project/in-memoriam.webstandards.org.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/web-standards-project/in-memoriam.webstandards.org/issues"
+  },
+  "homepage": "https://github.com/web-standards-project/in-memoriam.webstandards.org#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
