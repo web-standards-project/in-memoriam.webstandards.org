@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy",
+    "build": "npx @11ty/eleventy"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,17 @@
   },
   "homepage": "https://github.com/web-standards-project/in-memoriam.webstandards.org#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "@11ty/eleventy": "^2.0.1",
+    "@sherby/eleventy-plugin-files-minifier": "^1.1.1",
+    "dotenv": "^16.3.1",
+    "eleventy-plugin-embed-everything": "^1.16.0",
+    "eleventy-plugin-seo": "^0.5.2",
+    "eleventy-plugin-svg-contents": "^0.7.0",
+    "luxon": "^3.4.3",
+    "markdown-it": "^13.0.1",
+    "markdown-it-anchor": "^8.6.7",
+    "markdown-it-attrs": "^4.1.6",
+    "markdown-it-footnote": "^3.0.3",
+    "widont": "^0.3.4"
   }
 }

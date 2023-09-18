@@ -1,0 +1,12 @@
+{
+  "title": "In Memoriam :: The Web Standards Project",
+  "description": "Remembering those who made an impact on the web standards movement.",
+  "url": "https://in-memoriam.webstandards.org",
+  "author": "The Web Standards Project & Friends",
+  "image": "https://in-memoriam.webstandards.org/i/og-logo.png",
+  "options": {
+    "imageWithBaseUrl": false,
+    "titleDivider": " :: ",
+    "twitterCardType": "summary_large_image"
+  }
+}

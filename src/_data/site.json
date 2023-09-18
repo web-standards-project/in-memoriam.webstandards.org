@@ -1,0 +1,34 @@
+{
+	"domain": "in-memoriam.webstandards.org",
+	"url": "https://in-memoriam.webstandards.org",
+	"repo_url": "https://github.com/web-standards-project/in-memoriam.webstandards.org",
+	"simple_search": "https://duckduckgo.com/",
+	"lang": "en_US",
+	"title": "In Memoriam :: The Web Standards Project",
+	"subtitle": "Remembering those who made an impact on the web standards movement.",
+	"description": "Remembering those who made an impact on the web standards movement.",
+	"logo": "/i/og-logo.png",
+	"minify": true,
+	"author": {
+		"name": "The Web Standards Project and Friends",
+		"uri": "https://webstandards.org"
+	},
+	"navigation": [
+		{
+			"text": "Home",
+			"url": "/"
+		},
+		{
+			"text": "About This Project",
+			"url": "/about/"
+		},
+		{
+			"text": "WaSP",
+			"url": "https://webstandards.org"
+		}
+	],
+	"github": {
+		"repo": "web-standards-project/in-memoriam.webstandards.org",
+		"branch": "main"
+	}
+}
